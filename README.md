@@ -31,7 +31,7 @@ I skal dog bruge nyeste version af Ubuntu og ikke version 18.04, som der bliver
 forslået. 
 
 ## Indhold
-1. [Variable, typer og det første python program](./lektioner/lektion1.ipynb)
+1. Variable, typer og det første python program
 2. Kontrolstrukturer
 3. Objektorientering
 4. Læsning fra filer. 
