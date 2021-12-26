@@ -31,8 +31,13 @@ I skal dog bruge nyeste version af Ubuntu og ikke version 18.04, som der bliver
 forslået. 
 
 ## Indhold
+<<<<<<< HEAD
 1. [Variable, typer og det første python program](lektion1/lektion1.ipynb)
 2. Kontrolstrukturer
+=======
+1. Variable, typer og det første python program
+2. [Kontrolstrukturer](lektion2/lektion2.ipynb)
+>>>>>>> 070e29d144924a079bb585e77d4720cd58267903
 3. Funktioner og Klasser
 4. Dependencies og filer
 5. Pytest
