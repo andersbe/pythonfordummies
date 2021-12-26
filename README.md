@@ -31,10 +31,12 @@ I skal dog bruge nyeste version af Ubuntu og ikke version 18.04, som der bliver
 forslået. 
 
 ## Indhold
-1. Variable, typer og det første python program
+1. [Variable, typer og det første python program](lektion1/lektion1.ipynb)
 2. Kontrolstrukturer
 3. Funktioner og Klasser
-4. Læsning fra filer. 
+4. Dependencies og filer
+5. Pytest
+6. Flask 
 
 ## Hvis du vil vide mere:
 
