@@ -33,7 +33,7 @@ forslået.
 ## Indhold
 1. Variable, typer og det første python program
 2. Kontrolstrukturer
-3. Objektorientering
+3. Funktioner og Klasser
 4. Læsning fra filer. 
 
 ## Hvis du vil vide mere:
