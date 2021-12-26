@@ -34,7 +34,7 @@ forslået.
 1. [Variable, typer og det første python program](lektion1/lektion1.ipynb)
 2. Kontrolstrukturer
 3. Funktioner og Klasser
-4. Dependencies og filer
+4. [Dependencies og filer](lektion4/lektion4.ipynb)
 5. Pytest
 6. Flask 
 
