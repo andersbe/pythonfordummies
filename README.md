@@ -32,11 +32,10 @@ forslået.
 
 ## Indhold
 1. [Variable, typer og det første python program](lektion1/lektion1.ipynb)
-2. Kontrolstrukturer
-3. Funktioner og Klasser
+2. [Kontrolstrukturer](lektion2/lektion2.ipynb)
+3. [Funktioner og Klasser](lektion3/lektion3.ipynb)
 4. [Dependencies og filer](lektion4/lektion4.ipynb)
-5. Pytest
-6. Flask 
+5. [Pytest](lektion5/lektion5.ipynb)
 
 ## Hvis du vil vide mere:
 
