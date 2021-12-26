@@ -32,7 +32,7 @@ forslået.
 
 ## Indhold
 1. Variable, typer og det første python program
-2. Kontrolstrukturer
+2. [Kontrolstrukturer](./lektion2/lektion2.ipynb)
 3. Objektorientering
 4. Læsning fra filer. 
 
